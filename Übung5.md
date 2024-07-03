@@ -45,8 +45,8 @@ Was nicht gelungen ist:
 1. Die CroupierUDP.java mit der BlackjackUDP.java kommunizieren zu lassen.
 2. Die FatJar lauffähig hinzubekommen
 
-Ich habe verschiedene Ansätze gewählt, habe versucht den Spieler und den Kartenzähler noch zu implementieren um zu testen, ob es damit dann funktioniert, aber auch das ist leider fehlgeschlagen. Außerdem habe ich alles nochmals from scratch aufgebaut, bin aber wieder in die gleichen Fehler gelaufen, obwohl ich aktiv versucht habe einen anderen Ansatz zu erzeugen.
+Ich habe verschiedene Ansätze gewählt, habe versucht Spieler und Kartenzähler noch zu implementieren um zu testen, ob es damit dann funktioniert, aber auch das ist leider fehlgeschlagen. Außerdem habe ich alles nochmals from scratch aufgebaut, bin aber wieder in die gleichen Fehler gelaufen, obwohl ich aktiv versucht habe einen anderen Ansatz zu erzeugen.
 
 ## Aufgabe 4: Kommunikation
 
-Hier habe ich versucht mir die Abgaben meiner Kommilitonen genauer anzuschauen um zu verstehen, was bei mir falsch war, bin aber ehrlich gesagt als Mathestudent mit meinem Java-Latein am Ende. Die Funktionalität konnte ich also leider auch nicht wirklich testen.   
+Hier habe ich versucht mir die Abgaben meiner Kommilitonen genauer anzuschauen um zu verstehen, was bei mir falsch war, bin aber ehrlich gesagt als Mathestudent mit meinem Java-Latein am Ende. Die Funktionalität konnte ich also leider auch nicht wirklich testen.
